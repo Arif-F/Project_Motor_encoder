@@ -1,5 +1,5 @@
 
-/*
+
 #include <Keypad.h>
 #include <Wire.h>
 #include <EEPROM.h>
@@ -369,4 +369,3 @@ void rpm_fun(){
    half_revolutions++; //counter interupt
 }
 
-*/
